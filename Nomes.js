@@ -1,1 +1,0 @@
-console.log("Jão roubou pão na casa de Pedro, pedro ficou com fome")
